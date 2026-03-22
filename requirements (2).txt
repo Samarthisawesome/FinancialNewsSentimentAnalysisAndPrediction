@@ -1,0 +1,10 @@
+yfinance
+finnhub-python
+transformers
+torch
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+numpy
